@@ -2,7 +2,7 @@
 All things about PyTorch :)
 1. [Writing better code with pytorch and einops](https://arogozhnikov.github.io/einops/pytorch-examples.html)
 
-1. [PyTorch and CoreML](https://attardi.org/pytorch-and-coreml)
+2. [PyTorch and CoreML](https://attardi.org/pytorch-and-coreml)
 
-1. Item 3
-   1. Item 3a
+3. [PyTorch – Internal Architecture Tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)
+
